@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Chanuri Amarasinghe</h1>
-<h3 align="center">I am a third-year undergraduate student at SLIIT, passionate about software development and the ever-evolving world of technology. My academic journey has provided me with a strong foundation in both front-end and back-end development, and I am committed to expanding my expertise by exploring modern frameworks, tools, and best practices. I enjoy designing and building dynamic, user-friendly applications that address real-world challenges. Whether it's crafting intuitive UIs or optimizing backend performance, I strive to write clean, efficient, and maintainable code. Beyond academics, I actively seek opportunities to collaborate on innovative projects and contribute to the developer community. If you share a passion for technology and problem-solving, let's connect and create something impactful together!</h3>
+<h2 align="center">🚀 Software Engineering Undergraduate | Full-Stack Developer | AI Enthusiast</h2>
+<h3 align="center">🚀 I am a final-year Software Engineering undergraduate at SLIIT with a strong passion for building impactful, real-world applications. My experience spans full-stack web development and cross-platform mobile applications, where I enjoy transforming ideas into scalable, user-friendly solutions.
+
+I have hands-on experience working with modern technologies such as the MERN stack, Next.js, Flutter, and React Native, along with backend systems and RESTful API integrations. During my internship, I contributed to developing and deploying multiple mobile and web applications, optimizing system performance, and implementing real-time features.
+
+I’m also deeply interested in AI-driven systems and have worked on research projects involving machine learning and NLP, including developing an expertise recommendation system that maps developer skills to tasks intelligently.
+
+💡 What I enjoy:
+
+Building clean, efficient, and maintainable code
+Designing intuitive and responsive user interfaces
+Solving complex problems with smart, scalable solutions
+Exploring new technologies and continuously learning
+
+🤝 I’m always open to collaborating on innovative projects and connecting with like-minded developers. Let’s build something meaningful together!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
